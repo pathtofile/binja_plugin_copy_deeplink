@@ -16,6 +16,18 @@ and it will open the right database as the correct location.
 
 ## Installation Instructions
 
+### Darwin
+
+
+
+### Windows
+
+
+
+### Linux
+
+
+
 ## Minimum Version
 
 This plugin requires the following minimum version of Binary Ninja:
