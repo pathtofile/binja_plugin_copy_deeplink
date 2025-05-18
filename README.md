@@ -1,13 +1,36 @@
-# Copy as deeplink
-Author: pathtofile
+# Copy as Deeplink (v1.0.1)
+Author: **pathtofile**
 
-Binary Ninja plugin that creates a deeplink to the current address and adds it to the clipboard. Example deeplink:
-```
-binaryninja:///path/to/binary.bndb?expr=0x40369e
-```
+_Creates a deeplink to the current address and adds it to the clipboard_
 
-The link can then be saved into an external Wiki, notebook, etc. Binary Ninja automatically installs a link handler at install time, so you just need to 'open' the link in a browser or from the commandline
-and it will open the right database as the correct location.
+## Description:
+
+
+
+
+## Installation Instructions
+
+## Minimum Version
+
+This plugin requires the following minimum version of Binary Ninja:
+
+* 3164
+
+
+
+## Required Dependencies
+
+The following dependencies are required for this plugin:
+
+ * pip - 
+ * apt - 
+ * installers - 
+ * other - 
+
 
 ## License
-This plugin is released under an [MIT license](./license).
+
+This plugin is released under a MIT license.
+## Metadata Version
+
+2
